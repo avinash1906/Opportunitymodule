@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Vtiger.OpportunityModule.OpporunityModuleTC35"/>
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC32"/>
+      <class name="com.Vtiger.OpportunityModule.OpportunitymoduleTC34"/>
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC33"/>
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC36"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

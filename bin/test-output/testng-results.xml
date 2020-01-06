@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97860" started-at="2020-01-05T12:19:12 IST" finished-at="2020-01-05T12:20:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97860" started-at="2020-01-05T12:19:12 IST" finished-at="2020-01-05T12:20:50 IST">
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC32">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC32@2de8284b]" name="configBC" is-config="true" duration-ms="5055" started-at="2020-01-05T12:19:32 IST" finished-at="2020-01-05T12:19:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC32@2de8284b]" name="configBM" is-config="true" duration-ms="1774" started-at="2020-01-05T12:19:37 IST" finished-at="2020-01-05T12:19:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="serachOpportunityNo()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC32@2de8284b]" name="serachOpportunityNo" duration-ms="12085" started-at="2020-01-05T12:19:39 IST" finished-at="2020-01-05T12:19:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOpportunityNo -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC32@2de8284b]" name="configAM" is-config="true" duration-ms="1" started-at="2020-01-05T12:19:51 IST" finished-at="2020-01-05T12:19:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC32@2de8284b]" name="configAC" is-config="true" duration-ms="0" started-at="2020-01-05T12:19:51 IST" finished-at="2020-01-05T12:19:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Vtiger.OpportunityModule.OpportunityModuleTC32 -->
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC33">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC33@a74868d]" name="configBC" is-config="true" duration-ms="5660" started-at="2020-01-05T12:20:12 IST" finished-at="2020-01-05T12:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC33@a74868d]" name="configBM" is-config="true" duration-ms="1815" started-at="2020-01-05T12:20:18 IST" finished-at="2020-01-05T12:20:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="serachOpportunityName()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC33@a74868d]" name="serachOpportunityName" duration-ms="12002" started-at="2020-01-05T12:20:19 IST" finished-at="2020-01-05T12:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOpportunityName -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC33@a74868d]" name="configAM" is-config="true" duration-ms="1" started-at="2020-01-05T12:20:31 IST" finished-at="2020-01-05T12:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC33@a74868d]" name="configAC" is-config="true" duration-ms="0" started-at="2020-01-05T12:20:31 IST" finished-at="2020-01-05T12:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Vtiger.OpportunityModule.OpportunityModuleTC33 -->
+      <class name="com.Vtiger.OpportunityModule.OpporunityModuleTC35">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Vtiger.OpportunityModule.OpporunityModuleTC35@78ac1102]" name="configBC" is-config="true" duration-ms="5177" started-at="2020-01-05T12:19:12 IST" finished-at="2020-01-05T12:19:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.Vtiger.OpportunityModule.OpporunityModuleTC35@78ac1102]" name="configBM" is-config="true" duration-ms="1676" started-at="2020-01-05T12:19:18 IST" finished-at="2020-01-05T12:19:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="searchSaleStage()[pri:0, instance:com.Vtiger.OpportunityModule.OpporunityModuleTC35@78ac1102]" name="searchSaleStage" duration-ms="12984" started-at="2020-01-05T12:19:19 IST" finished-at="2020-01-05T12:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSaleStage -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.Vtiger.OpportunityModule.OpporunityModuleTC35@78ac1102]" name="configAM" is-config="true" duration-ms="0" started-at="2020-01-05T12:19:32 IST" finished-at="2020-01-05T12:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Vtiger.OpportunityModule.OpporunityModuleTC35@78ac1102]" name="configAC" is-config="true" duration-ms="1" started-at="2020-01-05T12:19:32 IST" finished-at="2020-01-05T12:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Vtiger.OpportunityModule.OpporunityModuleTC35 -->
+      <class name="com.Vtiger.OpportunityModule.OpportunitymoduleTC34">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunitymoduleTC34@396e2f39]" name="configBC" is-config="true" duration-ms="5762" started-at="2020-01-05T12:19:51 IST" finished-at="2020-01-05T12:19:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunitymoduleTC34@396e2f39]" name="configBM" is-config="true" duration-ms="1734" started-at="2020-01-05T12:19:57 IST" finished-at="2020-01-05T12:19:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="searchRelatedTo()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunitymoduleTC34@396e2f39]" name="searchRelatedTo" duration-ms="13115" started-at="2020-01-05T12:19:59 IST" finished-at="2020-01-05T12:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRelatedTo -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunitymoduleTC34@396e2f39]" name="configAM" is-config="true" duration-ms="0" started-at="2020-01-05T12:20:12 IST" finished-at="2020-01-05T12:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunitymoduleTC34@396e2f39]" name="configAC" is-config="true" duration-ms="1" started-at="2020-01-05T12:20:12 IST" finished-at="2020-01-05T12:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Vtiger.OpportunityModule.OpportunitymoduleTC34 -->
+      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC36">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC36@12c8a2c0]" name="configBC" is-config="true" duration-ms="6154" started-at="2020-01-05T12:20:31 IST" finished-at="2020-01-05T12:20:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC36@12c8a2c0]" name="configBM" is-config="true" duration-ms="1336" started-at="2020-01-05T12:20:38 IST" finished-at="2020-01-05T12:20:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="serachOppLeadSource()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC36@12c8a2c0]" name="serachOppLeadSource" duration-ms="11436" started-at="2020-01-05T12:20:39 IST" finished-at="2020-01-05T12:20:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOppLeadSource -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC36@12c8a2c0]" name="configAM" is-config="true" duration-ms="1" started-at="2020-01-05T12:20:50 IST" finished-at="2020-01-05T12:20:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Vtiger.OpportunityModule.OpportunityModuleTC36@12c8a2c0]" name="configAC" is-config="true" duration-ms="0" started-at="2020-01-05T12:20:50 IST" finished-at="2020-01-05T12:20:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Vtiger.OpportunityModule.OpportunityModuleTC36 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
