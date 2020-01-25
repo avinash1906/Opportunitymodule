@@ -59,7 +59,7 @@ public class OpportunityModuleTC32 extends BaseClass {
 		op.getUser_name().sendKeys("admin");
 		op.getPassword().sendKeys("manager");
 		op.getSubmit().click();
-System.out.println("hhhhh ansu now i");
+System.out.println("hhhhh ansudf now i");
 		// Navigate to Opportunity
 
 		op.getNavOpportunity().click();
