@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Vtiger.OpportunityModule.OpportunityModuleTC33">
+      <class name="com.jcpenny.order_Tc_1.Order_tc_01">
         <methods>
-          <include name="serachOpportunityName"/>
+          <include name="serachOpportunityNo"/>
           <include name="configAM"/>
           <include name="configBM"/>
           <include name="configAC"/>
           <include name="configBC"/>
         </methods>
-      </class> <!-- com.Vtiger.OpportunityModule.OpportunityModuleTC33 -->
+      </class> <!-- com.jcpenny.order_Tc_1.Order_tc_01 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
